@@ -40,6 +40,9 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=whit" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=Tailwind%20CSS" />
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
