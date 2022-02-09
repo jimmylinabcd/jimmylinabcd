@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Jimmy here.</h1>
-<h3 align="center">Young Developer interested in low level development.</h3>
+<h3 align="center">Young Developer interested in cryptography and cybersecurity.</h3>
 
 
 <p align="center">
